@@ -2,7 +2,7 @@
 title: "[THM] Hunt Me I: Payment Collectors"
 date: 2024-07-09
 categories: [Writeups, TryHackMe]
-tags: [THM, Writeup]
+tags: [THM, Writeup, Elastic, ELK, SIEM]
 ---
 On Friday, September 15, 2023, Michael Ascot, a Senior Finance Director from SwiftSpend, was checking his emails in Outlook and came across an email appearing to be from Abotech Waste Management regarding a monthly invoice for their services. Michael actioned this email and downloaded the attachment to his workstation without thinking.
 
