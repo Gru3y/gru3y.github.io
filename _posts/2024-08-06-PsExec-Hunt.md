@@ -1,6 +1,6 @@
 ---
 title: "[CD] PsExec Hunt"
-date: 2024-08-08
+date: 2024-08-06
 categories: [Writeups, CyberDefenders]
 tags: [CyberDefenders, Writeup, Wireshark, PCAP]
 ---

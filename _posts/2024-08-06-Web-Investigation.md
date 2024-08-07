@@ -1,6 +1,6 @@
 ---
 title: "[CD] Web Investigation"
-date: 2024-08-10
+date: 2024-08-06
 categories: [Writeups, CyberDefenders]
 tags: [CyberDefenders, Writeup, Wireshark, PCAP]
 ---

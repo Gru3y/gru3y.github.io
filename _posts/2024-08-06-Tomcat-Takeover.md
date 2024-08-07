@@ -1,6 +1,6 @@
 ---
 title: "[CD] Tomcat Takeover"
-date: 2024-08-09
+date: 2024-08-06
 categories: [Writeups, CyberDefenders]
 tags: [CyberDefenders, Writeup, Wireshark, PCAP]
 ---
